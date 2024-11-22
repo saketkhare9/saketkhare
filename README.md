@@ -16,17 +16,15 @@ Passionate about leveraging new technologies for business growth, I am adept at 
 ## Skills
 Skills-Set
 
- Programming Languages & Technologies: C#. , VB.Net, Power BI,, ASP.NET CORE, AngularJS, Python, MSBI
- 
-·       Web Technologies: Expertise in JavaScript, XML, HTML, Web Services, and jQuery, Razor, CSS Rest API’s, SOAP-Core, Microservices
- 
-·       Cloud Computing: Skilled in deploying solutions on AWS and Google Cloud Platform.
- 
-·       Databases: Advanced knowledge of MS SQL Server 2022 (all versions), MySQL, DB2 Teradata-Vantage, Big Query, Oracle 10g.
- 
-·       Tools: Proficient with MS Visual Studio 2022, SQL server jobs agent, Control-M, Office 365, Power-BI, Tableau, , Generative AI Tools ChatGPT 4.0 &  MS Copilot. Git-hub, SVN, Service Now, Jira
- 
-·       Scrum process tools: - Jira, Service Now and succeed ticketing system those are followed ITIL best practice.
-
+• Programming Languages & Frameworks: C#, MS-VB.NET, ASP.NET Core, ADO.Net AngularJS, Python, MSBI.
+       -  Web Technologies: JavaScript, XML, HTML, Razor, CSS, jQuery, REST APIs, MS SOAP-Core, Microservices.
+       -  Cloud Computing: Experienced in deploying solutions on AWS and Google Cloud Platform (GCP).
+       -  Databases: Extensive knowledge of MS SQL Server (various versions), MySQL, DB2,
+       -  Teradata Vantage, and BigQuery, LINQ, NHibernate, Dapper ORM’s etc.
+• Tools:
+      -  Development & Monitoring: MS Visual Studio (various editions), SQL Server Agent Jobs, Control-M, GitHub, SVN.
+      -  Productivity & Reporting: Office 365, Power BI, Tableau, Generative AI Tools (ChatGPT 4.0, MS Copilot).
+      -  Project Management & IT Service Management: ServiceNow, Jira, Succeed (ITIL best practices).
+      
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/saketkhare/)) or Email-(khare.saket@gmail.com)
