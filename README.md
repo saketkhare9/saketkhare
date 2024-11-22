@@ -1,4 +1,4 @@
-# saketkhare
+# Saket Khare
 
 Welcome to my personal portfolio! 
 
